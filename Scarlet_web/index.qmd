@@ -1,91 +1,36 @@
 ---
-title: "Hi, I am Scarlet. Nice to meet you!"
-author: "Scarlet"
+title: "About Me - Scarlet Wu"
+format: html
 ---
 
-<img src="/cloud/project/Scarlet_web/elements/logo.png" alt="Me" loading="lazy" width="60" height="40">
+# 👋 Hi, I’m @ScarletWu
 
-# EDUCATION
-University of Toronto
-Sep 2023 – Jun 2024 
-Bachelor of Science (Honours)
+![Scarlet Wu](/cloud/project/Scarlet_web/elements/logo.jpeg)
 
-Physiology Specialist  
-Statistic Minor
+I am a Bachelor of Science (Honours) student at the University of Toronto, majoring in Physiology with a minor in Statistics. With a passion for both the biological sciences and data analysis, I am eager to bridge these fields through my work.
 
-# TECHNICAL SKILLS
-## Software: 
-SQL, Python, R Studio, GitHub, Power BI, and Prism Graphpad.
+## 👀 Interests
 
-## Lab Techniques: 
-Western blots, bacterial culture, immune cell isolations, animal tissue histology, cytotoxicity (LDH assay), immunofluorescent staining, organ injury scoring, virology, genetics and sequence design, bioinformatics. 
+I'm deeply interested in integrating my education in physiology with my technical skills in data analysis. I am committed to contributing to interdisciplinary studies and public health. My journey has taken me through various labs and research projects, from investigating liver ischemic injury at Unity Health to developing software for diabetes prevention with the PREVENT Project. These experiences have not only honed my lab and analytical skills but also fueled my passion for merging biological insights with data-driven solutions.
 
+## 🌱 Currently Learning
 
-# WORKING EXPERIENCE
-## Unity Health (Ori Rotstein Lab, University of Toronto)
-Sep 2023 – Present
-Research Assistant
-- Conducted in-depth research on liver ischemic injury, showcasing analytical skills and attention to detail.
-- Led an independent project on C3-CRIG interaction, demonstrating project management, innovation, and strategic planning skills.
-- Gained technical proficiency in histology and liver injury scoring, enhancing problem-solving abilities.
-- Contributed to manuscript writing, highlighting written communication and collaborative skills.
+I’m currently diving into advanced analysis methods, exploring how these can be applied to solve complex health challenges through innovative data analysis and technology applications.
 
-## Biomedical Incubator Capstone (Erwinia-Phage Therapy, University of Toronto)
-Sep 2023 – Present
-Independent Research Project Contributor
-- Developed bacteriophage cocktails, illustrating creative thinking and experimental design skills.
-- Identified research gaps and commercialization potential, showcasing market analysis and entrepreneurial thinking.
-- Managed the project budget, demonstrating financial planning and resource management capabilities.
-Exhibited leadership, teamwork, and networking skills throughout the project.
+## 💞️ Looking to Collaborate
 
-## Unity Health (Haibo Zhang Lab, University of Toronto)
-May 2023 – Aug 2023
-Research Assistant 
-- Research Investigated COVID-19 therapies, showing critical thinking and a proactive approach to medical challenges.
-- Managed electronic archives, indicating organizational skills and data management proficiency.
-- Attended lab meetings, showcasing active listening and engagement in collaborative environments.
+I'm eager to collaborate on projects aiming to tackle health challenges through innovative data analysis and technology applications. Whether it's developing predictive models for disease prevention or leveraging AI to better understand biological processes, I'm here to make a difference.
 
-PREVENT Project (Karim Keshavjee Lab, University of Toronto)
-Jul 2023 – Sep 2023
-Project Volunteer
-- Contributed to AI-based diabetes prevention software, displaying technical acumen and adaptability.
-- Developed predictive models, showing quantitative analysis skills and the ability to synthesize complex data.
-- Integrated biological data with health records, indicating interdisciplinary knowledge and innovation.
+## 📫 How to Reach Me
 
-Chinese State Key Lab (Zijie Zhang Lab, Yunnan University)
-Jun 2021 – Aug 2021
-Research Assistant
-- Conducted molecular studies on COVID-19 vaccines, demonstrating scientific rigor and detail-oriented research.
-- Improved communication and teamwork through diverse interactions, enhancing interpersonal skills and cultural awareness.
+Feel free to connect with me through email at [scarletruoxianwu@gmail.com](mailto:scarletruoxianwu@gmail.com). I'm always open to discussing new ideas, potential collaborations, or simply connecting with like-minded individuals in the field.
 
+## 😄 Pronouns
 
-# PUBLICATIONS
+She/Her
 
-Manuscript-in-preparation:
-- Avinash Naraiah Mukkala, Bruna Araujo David, Menachem Ailenberg, Jady Liang, Chirag Manoj Vaswani, Danielle Karakas, William Barbour, Rachel Goldfarb, Avishai Gasner, *Ruoxian Wu*, Kushal Joshi, Raluca Petrut, Sabrina Yang, Colin Graham, Mirjana Jerkic, Eno Hysi, Marc Jeschke, Ana Andreazza, Heyu Ni, Claudia dos Santos, Haibo Zhang, Andras Kapus, Paul Kubes, Ori David Rotstein. "Exogenous mitochondria are phagocytosed by ischemic Kupffer cells, in vivo, to prevent liver injury and inflammation." Has been submitted to the Journal of Experimental Medicine in Feb. 2024.
+## ⚡ Fun Fact
 
-## EXTRACURRICULAR ACTIVITIES
-University of Toronto Life Sciences Connection (UTLSC) Club
-Sep 2022 – Present
-Vice Minister
-- Leadership & Management: Spearheaded promotional efforts, showcasing leadership through the effective coordination of publicity tasks.
-- Technical Proficiency: Utilized various software such as Microsoft Office Suite, demonstrating adaptability and proficiency in technology for creative solutions.
-- Creative Communication: Designed electronic posters, enhancing the club's visibility and engagement, highlighting creativity and strategic communication skills.
+Beyond the lab and code, I find harmony in music as a cellist. This creative outlet not only enriches my life but also reminds me of the beauty in collaboration and the symphony of bringing diverse elements together – much like in interdisciplinary research.
 
-University of Toronto Skule Orchestra Club
-Sep 2021 – May 2023
-Cellist
-- Rehearse Teamwork & Collaboration: Collaborated in a symphonic orchestra setting, fostering teamwork and mutual support among musicians.
-- Cultural Enrichment: Contributed to the enrichment of college life through music, demonstrating commitment to cultural diversity and community engagement.
-- Communication Skills: Engaged with peers with similar interests, showcasing interpersonal communication skills and the ability to work harmoniously in diverse groups.
-
-Mama Pack Organization
-Jun 2019
-Volunteer
-- Social Responsibility: Packed food for children suffering from famine worldwide, reflecting a strong sense of empathy, commitment to social impact, and humanitarian values.
-- Teamwork & Efficiency: Worked effectively in a team to achieve a common goal under time constraints, displaying excellent organizational skills and the ability to work well under pressure.
-
-# AWARDS
-University of Toronto
-Experiential Learning Bursary
-Fall 2023
+[Download My CV](/cloud/project/Scarlet_web/elements/CV.pdf)
